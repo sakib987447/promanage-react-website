@@ -4,13 +4,13 @@ ProManage is a modern and responsive **Project Management Website** built using 
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** `https://promanage-react-website-mu.vercel.app/`
+🔗 **Live Website:** https://promanage-react-website-mu.vercel.app/
 
 ## 📂 GitHub Repository
 
-🔗 **Repository:** `https://github.com/sakib987447/promanage-react-website`
+🔗 **Repository:** https://github.com/sakib987447/promanage-react-website
 
----l
+
 
 ## ✨ Features
 
